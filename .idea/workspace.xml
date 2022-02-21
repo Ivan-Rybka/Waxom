@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a8ddea-cb30-4706-988d-833f4d4c7843" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Hard landing(SASS, Bootstrap, etc) - second pr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maket/Waxom Hemepage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maket/Waxom Hemepage.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maket/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/CONTRIBUTING.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick/slick/slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Background-ideas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrow-slider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/browser-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/browser-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/browser-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clients.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/customization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/development.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dribbble1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dribbble2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dribbble3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dribbble4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/MYRIADPRO-REGULAR.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/footer-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iPhone in hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/islands.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/launched.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/left-posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/likes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lupa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/marketing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mobile-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/partners-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/right-posts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slide1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slide2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slide3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/video-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/waxon-logos.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yj4iqu39DrMONYVQ10eyDEoIpU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weather app - third pr" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PP\Hard landing(SASS, Bootstrap, etc) - second pr\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a8ddea-cb30-4706-988d-833f4d4c7843" name="Default Changelist" comment="" />
+      <created>1632751793765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632751793765</updated>
+      <workItem from="1632751794838" duration="875000" />
+      <workItem from="1633515090485" duration="663000" />
+      <workItem from="1634037865074" duration="10102000" />
+      <workItem from="1634195378757" duration="2767000" />
+      <workItem from="1634554760731" duration="1667000" />
+      <workItem from="1634565092499" duration="6826000" />
+      <workItem from="1634637625239" duration="5790000" />
+      <workItem from="1634727180174" duration="6627000" />
+      <workItem from="1635164362655" duration="4923000" />
+      <workItem from="1635246217882" duration="7326000" />
+      <workItem from="1635259499559" duration="1353000" />
+      <workItem from="1635508282781" duration="6655000" />
+      <workItem from="1635848400788" duration="17026000" />
+      <workItem from="1635878396364" duration="1421000" />
+      <workItem from="1636046212728" duration="1358000" />
+      <workItem from="1636466951410" duration="1916000" />
+      <workItem from="1636632563696" duration="17107000" />
+      <workItem from="1636975604029" duration="4252000" />
+      <workItem from="1637071002428" duration="166000" />
+      <workItem from="1637586606522" duration="4537000" />
+      <workItem from="1637847772438" duration="606000" />
+      <workItem from="1643291190200" duration="36000" />
+      <workItem from="1643727545206" duration="60000" />
+      <workItem from="1643805625767" duration="1309000" />
+      <workItem from="1643882760049" duration="52000" />
+      <workItem from="1644500962444" duration="4521000" />
+      <workItem from="1644582660555" duration="7139000" />
+      <workItem from="1644927562149" duration="23000" />
+      <workItem from="1645299448473" duration="164000" />
+      <workItem from="1645443573105" duration="3659000" />
+      <workItem from="1645449499398" duration="3524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
